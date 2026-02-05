@@ -19,4 +19,4 @@ An Android application to manage pet profiles, health records, reminders, and ad
 
 ## 👤 Author
 Akshay  
-GitHub: https://github.com/Akshay-IT-Dev
+GitHub: https://github.com/Akshay-NK-0
